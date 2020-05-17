@@ -1,8 +1,3 @@
-// this function realise :
-// - delete the value (set the variable to 0)
-// - free the memory
-// - set the pointer to Null
-
 Aims of the "MyLinkList" Library :
 * build a library in standard C that is able to deal with any type
 * apply the concepts seen in "Software Engineering" DSTI class, especially around pointers, arguments passed by value or by adress, shallow copy or deep copy.
