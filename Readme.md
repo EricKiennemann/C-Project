@@ -2,7 +2,7 @@ Aims of the "MyLinkList" Library :
 * build a simple "Link List" library in standard C that is able to deal with any type
 * apply the concepts seen in "Software Engineering" DSTI class, especially around pointers, arguments passed by value or by adress, shallow copy or deep copy.
 
-The library "package" include three files :
+The library "package" include two files :
 * MyLinkLib.lib
 * MyLinkList.h - the header file to be included
 
@@ -10,8 +10,9 @@ A very simple example of using the library is given :
 * intfunction.h : declaration of the functions to use integers
 * intfunction.c : definition of the functions to use integers
 * main.c : main program to use the libray
+
 Source files of the library are also provided :
-* MyLinkList.cpp - the definition of the functions of the library
+* MyLinkList.c - the definition of the functions of the library
 * internal.h : declaration of internal functions
 
 Link List
