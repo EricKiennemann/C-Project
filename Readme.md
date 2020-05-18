@@ -1,5 +1,5 @@
 Aims of the "MyLinkList" Library :
-* build a library in standard C that is able to deal with any type
+* build a simple "Link List" library in standard C that is able to deal with any type
 * apply the concepts seen in "Software Engineering" DSTI class, especially around pointers, arguments passed by value or by adress, shallow copy or deep copy.
 
 The library "package" include three files :
